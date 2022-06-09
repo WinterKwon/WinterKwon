@@ -18,9 +18,12 @@ Welcome to my page!
 
 
 **Project** 
+
 .. I involved as a backend engineer
+
 http://kdt-sw2-seoul-team04.elicecoding.com/
-source 
+
+source https://github.com/WinterKwon/Elice-sw2-shoppingmall
 
 
 
