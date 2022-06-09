@@ -1,8 +1,8 @@
-## Hi, Nice to see you 
+## Hi, Nice to see you 😄 
 Welcome to my page! 
 
 ###  엘리스 부트캠프에서 열공중 <img align="right" src = "https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47euub0zqylsv60i1zjs180v44uqsaj030tvfjm4nb&rid=giphy.gif&ct=g" width = "100" />
-가장 신나고 재밌게 ..때론 고통스럽게^^ 공부하고 성장하는 중 💪
+가장 신나고 재밌게.. 때론 고통스럽게 공부하고 성장하는 중 💪
 
 **CS Language**
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e7a328?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -19,7 +19,8 @@ Welcome to my page!
 
 **Project** 
 .. I involved as a backend engineer
-
+http://kdt-sw2-seoul-team04.elicecoding.com/
+source 
 
 
 
