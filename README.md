@@ -17,13 +17,14 @@ Welcome to my page!
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 
-**Project**
+**Project** 
+.. I involved as a backend engineer
 
 
 
 
 - 👋 Hi, I’m Winter Kwon from South Korea. <img src = "https://emojis.slackmojis.com/emojis/images/1643509660/46442/korea.png?1643509660" width = "20" />
-- <img src = "https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47euub0zqylsv60i1zjs180v44uqsaj030tvfjm4nb&rid=giphy.gif&ct=g" width = "30" /> I'm working hard on 24/7.
+- <img src = "https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47euub0zqylsv60i1zjs180v44uqsaj030tvfjm4nb&rid=giphy.gif&ct=g" width = "30" /> I'm working hard on <a href = "https://swtrack.lms.elice.io/home" >Elice Bootcamp</a> 24/7.
 - 👀 I’m interested in sharing & spreading knowledge. 
 - 🌱 I’m currently learning React(wow!). 
 - 💞️ I’m looking to collaborate on many projects, for now, on backend server.
