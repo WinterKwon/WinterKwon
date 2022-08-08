@@ -1,13 +1,15 @@
 ## Hi, Nice to see you 😄 
-Welcome to my page! 
 
-###  [옥소 프로젝트](https://www.oxopolitics.com/)  <img align="right" src = "https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47euub0zqylsv60i1zjs180v44uqsaj030tvfjm4nb&rid=giphy.gif&ct=g" width = "100" />
+I am now on ...
+
+### <img height = 20 src = "https://user-images.githubusercontent.com/98244487/183453647-94f04326-6b43-4006-b991-26cfbc780cea.png"> [옥소 프로젝트](https://www.oxopolitics.com/)  <img align="right" src = "https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47euub0zqylsv60i1zjs180v44uqsaj030tvfjm4nb&rid=giphy.gif&ct=g" width = "100" />
+
 가장 신나고 재밌게.. 때론 고통스럽게 공부하고 성장하는 중 💪
 <br> 
 #### 엘리스 부트캠프 수료!
 
 
-
+---
 **CS Language**
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e7a328?style=flat-square&logo=JavaScript&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -25,17 +27,11 @@ Welcome to my page!
 **Project** 
 .. I involved as a backend engineer
 
-http://kdt-sw2-seoul-team04.elicecoding.com/
+* http://kdt-sw2-seoul-team04.elicecoding.com/
 
-https://github.com/WinterKwon/Elice-sw2-shoppingmall
+* https://github.com/WinterKwon/Elice-sw2-shoppingmall
 
 
 
-- 👋 Hi, I’m Winter Kwon from South Korea. <img src = "https://emojis.slackmojis.com/emojis/images/1643509660/46442/korea.png?1643509660" width = "20" />
-- <img src = "https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47euub0zqylsv60i1zjs180v44uqsaj030tvfjm4nb&rid=giphy.gif&ct=g" width = "30" /> I'm working hard on <a href = "https://swtrack.lms.elice.io/home" >Elice Bootcamp</a> 24/7.
-- 👀 I’m interested in sharing & spreading knowledge. 
-- 🌱 I’m currently learning React(wow!). 
-- 💞️ I’m looking to collaborate on many projects, for now, on backend server.
-- 📫 How to reach me ...-> winterkwon7017@gmail.com
 
 
