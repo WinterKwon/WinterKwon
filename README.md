@@ -27,9 +27,10 @@ I am now on ...
 **Project** 
 .. I involved as a backend engineer
 
-* http://kdt-sw2-seoul-team04.elicecoding.com/
 
-* https://github.com/WinterKwon/Elice-sw2-shoppingmall
+* 쇼핑몰 https://github.com/WinterKwon/Elice-sw2-shoppingmall
+
+* 동물병원 예약 플랫폼 https://github.com/Elice-SW-2-Team14/Animal-Hospital
 
 
 
