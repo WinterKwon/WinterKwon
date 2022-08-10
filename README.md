@@ -17,7 +17,7 @@ I am now on ...
 <img alt="R" src="https://img.shields.io/badge/-R-75aadb?style=flat-square&logo=R&logoColor=white" />
  
 **Tech Stack**
-<img alt="Expressjs" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=express.js&logoColor=white" />
+<img alt="express" src="https://img.shields.io/badge/-express-43853d?style=flat-square&logo=express&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
