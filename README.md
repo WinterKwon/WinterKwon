@@ -2,7 +2,7 @@
 
 I am now on ...
 
-### <img height = 20 src = "https://user-images.githubusercontent.com/98244487/183453647-94f04326-6b43-4006-b991-26cfbc780cea.png"> [옥소 프로젝트](https://www.oxopolitics.com/)  <img align="right" src = "https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47euub0zqylsv60i1zjs180v44uqsaj030tvfjm4nb&rid=giphy.gif&ct=g" width = "100" />
+### <img height = 20 src = "https://user-images.githubusercontent.com/98244487/183453647-94f04326-6b43-4006-b991-26cfbc780cea.png"> [옥소 프로젝트](https://github.com/oxopolitics-internship-for-elice/footprints)  <img align="right" src = "https://media0.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47euub0zqylsv60i1zjs180v44uqsaj030tvfjm4nb&rid=giphy.gif&ct=g" width = "100" />
 
 가장 신나고 재밌게.. 때론 고통스럽게 공부하고 성장하는 중 💪
 <br> 
