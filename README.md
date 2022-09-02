@@ -6,7 +6,8 @@ I am now on ...
 
 가장 신나고 재밌게.. 때론 고통스럽게 공부하고 성장하는 중 💪
 <br> 
-#### 2022.07 엘리스 부트캠프 수료!
+#### 2022.04 ~ 07 엘리스 부트캠프
+#### 2022.08 OxoPolitics 인턴쉽 프로젝트 - [정치인의 인생그래프, 정치 발자국](https://github.com/oxopolitics-internship-for-elice/footprints)
 
 
 ---
