@@ -4,11 +4,6 @@
 
 <br> 
 
-#### 2022.04 ~ 07 엘리스 부트캠프
-#### 2022.08 OxoPolitics 인턴쉽 프로젝트 - [정치인의 인생그래프, 정치 발자국](http://politician-footprints.site)
-
-
----
 **CS Language**
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e7a328?style=flat-square&logo=JavaScript&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -26,8 +21,15 @@
 <img alt="Docker" src="https://img.shields.io/badge/-docker-blue?style=flat-square&logo=docker&logoColor=white" />
 
 
+---
+
+
+
 **Project** 
 .. I involved as a backend engineer
+
+#### 2022.04 ~ 07 엘리스 부트캠프
+#### 2022.08 OxoPolitics 인턴쉽 프로젝트 - [정치인의 인생그래프, 정치 발자국](http://politician-footprints.site)
 
 
 * 쇼핑몰 https://github.com/WinterKwon/Elice-sw2-shoppingmall
