@@ -22,21 +22,23 @@
 
 
 ---
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WinterKwon&show_icons=true&theme=tokyonight)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterKwon&layout=compact&theme=tokyonight)  -->
+---
 
-
+#### 2022.08 OxoPolitics [정치인의 인생그래프, 정치 발자국](http://politician-footprints.site)
+#### 2022.04 ~ 07 엘리스 부트캠프
+---
 **Project** 
 .. I involved as a backend engineer
 
-#### 2022.04 ~ 07 엘리스 부트캠프
-#### 2022.08 OxoPolitics 인턴쉽 프로젝트 - [정치인의 인생그래프, 정치 발자국](http://politician-footprints.site)
-
-
-* 쇼핑몰 https://github.com/WinterKwon/Elice-sw2-shoppingmall
+* 정치발자국 - 정치인의 인생그래프 https://github.com/oxopolitics-internship-for-elice/footprints
 
 * 동물병원 예약 플랫폼 https://github.com/Elice-SW-2-Team14/Animal-Hospital
 
-* 정치발자국 - 정치인의 인생그래프 https://github.com/oxopolitics-internship-for-elice/footprints
+* 쇼핑몰 https://github.com/WinterKwon/Elice-sw2-shoppingmall
+
 
 
 
