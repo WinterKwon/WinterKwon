@@ -30,8 +30,8 @@
 #### 2022.08 OxoPolitics [정치인의 인생그래프, 정치 발자국](http://politician-footprints.site)
 #### 2022.04 ~ 07 엘리스 부트캠프
 ---
-**Project** 
-.. I involved as a backend engineer
+**Projects** 
+involved as a backend engineer
 
 * 정치발자국 - 정치인의 인생그래프 https://github.com/oxopolitics-internship-for-elice/footprints
 
