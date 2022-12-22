@@ -37,7 +37,7 @@ involved as a backend engineer
 
 * 동물병원 예약 플랫폼 https://github.com/Elice-SW-2-Team14/Animal-Hospital
 
-* 쇼핑몰 https://github.com/WinterKwon/Elice-sw2-shoppingmall
+* 도소매식자재쇼핑몰 https://github.com/WinterKwon/Elice-sw2-shoppingmall
 
 
 
